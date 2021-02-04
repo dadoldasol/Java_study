@@ -1,5 +1,7 @@
 # Java_study
 
+Whiteship 온라인 스터디 [링크](https://github.com/whiteship/live-study)
+
 * * *
 
 1. 1주차 과제: [JVM은 무엇이며 자바 코드는 어떻게 실행하는 것인가.](https://becomegp.tistory.com/36)
@@ -24,3 +26,33 @@
  * 타입 추론, var
 
 * * *
+
+3. 3주차 과제: [연산자](https://becomegp.tistory.com/41)
+ * 산술 연산자
+ * 비트 연산자
+ * 관계 연산자
+ * 논리 연산자
+ * instanceof
+ * assignment(=) operator
+ * 화살표(->) 연산자
+ * 3항 연산자
+ * 연산자 우선 순위
+ * (optional) Java 13. switch 연산자
+ 
+ * * *
+ 
+ 4. 4주차 과제: 
+ * 선택문
+ * 반복문
+ 
+  과제 0. JUnit 5 학습하세요.
+  
+  과제 1. live-study 대시 보드를 만드는 코드를 작성하세요.
+  
+  과제 2. LinkedList를 구현하세요.
+  
+  과제 3. Stack을 구현하세요.
+  
+  과제 4. 앞서 만든 ListNode를 사용해서 Stack을 구현하세요.
+  
+  과제 5. Queue를 구현하세요.
