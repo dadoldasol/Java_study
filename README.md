@@ -61,7 +61,7 @@ Whiteship 온라인 스터디 [링크](https://github.com/whiteship/live-study)
   
   * * *
   
-  5. 5주차 과제: [클래스]
+  5. 5주차 과제: [클래스](https://becomegp.tistory.com/47)
   
 (필수)
 * 클래스 정의하는 방법
@@ -75,3 +75,18 @@ Whiteship 온라인 스터디 [링크](https://github.com/whiteship/live-study)
 * int value, Node left, right를 가지고 있어야 합니다.
 * BinrayTree라는 클래스를 정의하고 주어진 노드를 기준으로 출력하는 bfs(Node node)와 dfs(Node node) 메소드를 구현하세요.
 * DFS는 왼쪽, 루트, 오른쪽 순으로 순회하세요.
+
+
+* * *
+
+6. 6주차 과제: [상속]
+
+(필수)
+* 자바 상속의 특징
+* super 키워드
+* 메소드 오버라이딩
+* 다이나믹 메소드 디스패치 (Dynamic Method Dispatch)
+* 추상 클래스
+* final 키워드
+* Object 클래스
+
