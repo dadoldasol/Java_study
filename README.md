@@ -79,7 +79,7 @@ Whiteship 온라인 스터디 [링크](https://github.com/whiteship/live-study)
 
 * * *
 
-6. 6주차 과제: [상속]
+6. 6주차 과제: [상속](https://becomegp.tistory.com/48)
 
 (필수)
 * 자바 상속의 특징
@@ -89,4 +89,31 @@ Whiteship 온라인 스터디 [링크](https://github.com/whiteship/live-study)
 * 추상 클래스
 * final 키워드
 * Object 클래스
+
+
+* * *
+
+7. 7주차 과제: [패키지](https://becomegp.tistory.com/49)
+
+(필수)
+* package 키워드
+* import 키워드
+* 클래스패스
+* CLASSPATH 환경변수
+* -classpath 옵션
+* 접근지시자
+
+
+* * *
+
+8. 8주차 과제: [인터페이스]
+
+(필수)
+* 인터페이스 정의하는 방법
+* 인터페이스 구현하는 방법
+* 인터페이스 레퍼런스를 통해 구현체를 사용하는 방법
+* 인터페이스 상속
+* 인터페이스의 기본 메소드 (Default Method), 자바 8
+* 인터페이스의 static 메소드, 자바 8
+* 인터페이스의 private 메소드, 자바 9
 
